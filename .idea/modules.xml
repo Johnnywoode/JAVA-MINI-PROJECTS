@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/MINI-PROJECTS.iml" filepath="$PROJECT_DIR$/.idea/MINI-PROJECTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PrimeNumbers/PrimeNumbers.iml" filepath="$PROJECT_DIR$/PrimeNumbers/PrimeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Sudoku Solver/Sudoku Solver.iml" filepath="$PROJECT_DIR$/Sudoku Solver/Sudoku Solver.iml" />
+    </modules>
+  </component>
+</project>
