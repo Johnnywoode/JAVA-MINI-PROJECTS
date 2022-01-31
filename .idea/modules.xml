@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/MINI-PROJECTS.iml" filepath="$PROJECT_DIR$/.idea/MINI-PROJECTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimeNumbers/PrimeNumbers.iml" filepath="$PROJECT_DIR$/PrimeNumbers/PrimeNumbers.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sudoku Solver/Sudoku Solver.iml" filepath="$PROJECT_DIR$/Sudoku Solver/Sudoku Solver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/findNthFibonacciNumber/findNthFibonacciNumber.iml" filepath="$PROJECT_DIR$/findNthFibonacciNumber/findNthFibonacciNumber.iml" />
     </modules>
   </component>
 </project>
