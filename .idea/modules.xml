@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lottery/Lottery.iml" filepath="$PROJECT_DIR$/Lottery/Lottery.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MINI-PROJECTS.iml" filepath="$PROJECT_DIR$/.idea/MINI-PROJECTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/MortgageCalculator/MortgageCalculator.iml" filepath="$PROJECT_DIR$/MortgageCalculator/MortgageCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimeNumbers/PrimeNumbers.iml" filepath="$PROJECT_DIR$/PrimeNumbers/PrimeNumbers.iml" />
