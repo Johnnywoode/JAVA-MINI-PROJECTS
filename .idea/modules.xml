@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/MINI-PROJECTS.iml" filepath="$PROJECT_DIR$/.idea/MINI-PROJECTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/MortgageCalculator/MortgageCalculator.iml" filepath="$PROJECT_DIR$/MortgageCalculator/MortgageCalculator.iml" />
       <module fileurl="file://$PROJECT_DIR$/PrimeNumbers/PrimeNumbers.iml" filepath="$PROJECT_DIR$/PrimeNumbers/PrimeNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RockPaperScossors/RockPaperScossors.iml" filepath="$PROJECT_DIR$/RockPaperScossors/RockPaperScossors.iml" />
       <module fileurl="file://$PROJECT_DIR$/SudokuSolver/SudokuSolver.iml" filepath="$PROJECT_DIR$/SudokuSolver/SudokuSolver.iml" />
       <module fileurl="file://$PROJECT_DIR$/findNthFibonacciNumber/findNthFibonacciNumber.iml" filepath="$PROJECT_DIR$/findNthFibonacciNumber/findNthFibonacciNumber.iml" />
     </modules>
